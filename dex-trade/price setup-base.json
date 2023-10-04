@@ -1,0 +1,7 @@
+{
+  "HYDT/USDT": {  // pair name
+    "price": 1, // central price
+    "up": 0.3, // percent deviation top line 15% = 0.15
+    "down": 0.3  // percent deviation bottom line 10% = 0.1
+  }
+}
